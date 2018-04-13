@@ -1,3 +1,4 @@
 def square_array(array)
-  array.each do |array[]|
+  squared_array = []
+  array.each do |squared_array|
 end
